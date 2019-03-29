@@ -1,0 +1,5 @@
+Error: java.sql.SQLSyntaxErrorException: Access denied for user 'root'@'%%' to database 'tarjetas_clm'
+HEADER;20180727
+IDENTIFIER_SERIES;;ALCAMPO
+
+esto es una prueba
